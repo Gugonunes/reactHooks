@@ -1,3 +1,3 @@
 # React Hooks
 
-Repositório para estudo de React com foco em React Hooks
+Repository for studying React with focus on React Hooks
